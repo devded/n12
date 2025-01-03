@@ -26,6 +26,9 @@ export default function Home() {
         <li>
           <p>Test NextJS</p>
         </li>
+        <li>
+          <p>Feature A2</p>
+        </li>
       </ul>
     </>
   );
