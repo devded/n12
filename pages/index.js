@@ -23,6 +23,9 @@ export default function Home() {
         <li>
           <a href="/image">next/image</a>
         </li>
+        <li>
+          <p>Test NextJS</p>
+        </li>
       </ul>
     </>
   );
